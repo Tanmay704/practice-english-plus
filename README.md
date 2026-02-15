@@ -164,8 +164,16 @@ User preferences for language and difficulty are stored in localStorage.
 ## 🌐 Pages
 
 - **Home (/)**: Main practice interface with all learning tools
+  <img width="1901" height="863" alt="image" src="https://github.com/user-attachments/assets/17794334-cd5c-47b7-aa8d-9648fa6611b6" />
+  <img width="1913" height="856" alt="image" src="https://github.com/user-attachments/assets/f650a293-c55d-467e-81fa-e33a0b235a69" />
+
+  
 - **About (/about)**: Information about the platform and features
+  <img width="1902" height="862" alt="image" src="https://github.com/user-attachments/assets/bf936b25-bd1e-45d5-a6b1-1ca589bd6be0" />
+  
 - **Feedback (/feedback)**: Submit feedback, suggestions, or bug reports
+  <img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/d639445b-8ac4-4a0e-93ca-65d2c9279fa7" />
+
 
 ## 🎯 Key Components
 
